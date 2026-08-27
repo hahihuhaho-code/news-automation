@@ -1,0 +1,4 @@
+interface:
+  display_name: "뉴스 자동화"
+  short_description: "관심 주제의 최신 뉴스를 수집·검증·요약합니다"
+  default_prompt: "$news-automation을 사용해 최근 24시간의 한국어 AI 뉴스 브리핑을 만들어줘."
